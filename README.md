@@ -14,7 +14,9 @@ The CNN created for this project Our model consists of 10 layers:1 embedding la
 2 classification layers
 
 4 normalization layers and 2 extraction layers.
+
 ![image](https://user-images.githubusercontent.com/68871694/155318675-a4862a06-d2fe-4a74-b037-0f3bf8c97f5b.png)
+
 
 In order to compare other traditional machine learning methods were implemented such as Decision Tree model, Multinomial Naive Bayes model and SVM model.
 
