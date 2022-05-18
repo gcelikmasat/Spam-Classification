@@ -27,3 +27,6 @@ Training the CNN model:
 
 Evaluation and Results:
 ![image](https://user-images.githubusercontent.com/68871694/155318966-4154b706-0014-468b-bbe0-647299783382.png)
+
+<img width="912" alt="image" src="https://user-images.githubusercontent.com/68871694/169034029-2e8480d2-6891-4cd0-9922-893553061687.png">
+
